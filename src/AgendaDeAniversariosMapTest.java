@@ -8,6 +8,8 @@ public class AgendaDeAniversariosMapTest {
 
 	@Test
 	public void test() {
+		
+		
 		AgendaDeAniversariosMap agenda = new AgendaDeAniversariosMap();
 		Aniversariante aniv1  = new Aniversariante("José",3,10);
 		Aniversariante aniv2 = new Aniversariante("Mário", 2, 10);
